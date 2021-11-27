@@ -4,3 +4,4 @@
 
 
 You can get galaxy dataset from https://www.kaggle.com/laurenkwong/galaxydat .
+You can also read the process of this project from https://mole-starseeker.tistory.com/24
